@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "mern-tutorial",
   "version": "1.0.0",
   "description": "Goal setter app",
   "main": "server.js",
